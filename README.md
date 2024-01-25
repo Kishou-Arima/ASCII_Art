@@ -1,5 +1,8 @@
 <h1 align="center">ASCII Art</h1>
 
+## This Fork of ASCII Art from [AlexJMercer](https://github.com/AlexJMercer) takes inspiration from his Project and is ported into C#.
+> C# enables the use of Machine Learning, which makes it a good alternative to C++. But as OpenCV is built on C,C++,Python, it is a bit complicated to use with C# as a wrapper is needed to do the tasks.
+
 ## Webcam to ASCII
 >
 > ![image](https://github.com/AlexJMercer/ASCII_Art/assets/55972469/7a965b7e-68dc-41ef-bcb4-180bfaa05f21)
